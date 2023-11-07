@@ -59,10 +59,7 @@ Testing the webserver.
         httpd.serve_forever()
 
 
->>>>>>> b3d43a8b5f9faa08925befe05c38bd564406b616
-
-## OUTPUT:
-![266784895-87162c73-3771-41d1-b9c3-58327265ede1](https://github.com/danush564/simplewebserver/assets/98585166/38879e2a-0bda-4f66-9ff0-c2317f1c1d69)
+(https://github.com/danush564/simplewebserver/assets/98585166/38879e2a-0bda-4f66-9ff0-c2317f1c1d69)
 
 
 ![Alt text](<Screenshot (418).png>)
